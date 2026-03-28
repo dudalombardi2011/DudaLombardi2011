@@ -57,6 +57,18 @@ Atualmente, participo de iniciativas estudantis, como a CimatecJr, no Senai Cima
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
 />
 
+/<img 
+    alt="C" 
+    width="45px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+/>
+
+/<img 
+    alt="C" 
+    width="45px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+/>
+
 </p>
 <br/>
 <h2> 📊Estatísticas </h2>
