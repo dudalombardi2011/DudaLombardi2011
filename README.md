@@ -3,7 +3,7 @@
 
 Me chamo Maria Eduarda Lombardi, mas sou conhecida como Duda. Tenho 19 anos e sou natural de Salvador, Bahia. Concluí o ensino médio no Colégio Bernoulli Salvador em 2024 e, atualmente, sou graduanda em Engenharia da Computação pelo Senai Cimatec e em Arquitetura e Urbanismo pela UFBA — Universidade Federal da Bahia.
 
-Atualmente, participo de iniciativas estudantis, como a CimatecJr, no Senai Cimatec, com o objetivo de ampliar meus conhecimentos na área de tecnologia. Considero-me uma pessoa em constante aprendizado, sou apaixonada por adquirir novos conhecimentos e estou sempre disposta a aprender cada vez mais.
+Atualmente, participo de iniciativas estudantis, como a CimatecJr e o Clube de Programação, no Senai Cimatec, com o objetivo de ampliar meus conhecimentos na área de tecnologia. Considero-me uma pessoa em constante aprendizado, sou apaixonada por adquirir novos conhecimentos e estou sempre disposta a aprender cada vez mais.
 
 <br/>
 
