@@ -45,31 +45,29 @@ Atualmente, participo de iniciativas estudantis, como a CimatecJr, no Senai Cima
     alt="JavaScript" 
     width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
+  />
   <img 
     alt="Python" 
     width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
+  />
   <img 
     alt="C" 
     width="45px" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-/>
-
+  />
   <img 
     alt="Java" 
     width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-/>
-
+  />
   <img 
     alt="Typescript" 
     width="45px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-/>
-
+  />
 </p>
+
 <br/>
 <h2> 📊Estatísticas </h2>
 
